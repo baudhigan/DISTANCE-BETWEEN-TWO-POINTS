@@ -25,7 +25,8 @@ print("{:0.2f}".format(distance))
 ```
 
 ### OUTPUT:
-![Python Ex 3](https://github.com/baudhigan/DISTANCE-BETWEEN-TWO-POINTS/assets/151921158/6dd4cbb3-25e1-4808-98a1-de0c3a44ff5f)
+![image](https://github.com/baudhigan/DISTANCE-BETWEEN-TWO-POINTS/assets/151921158/9d1ae713-9570-4987-a287-fd30aefdeb19)
 
 
 ### RESULT:
+Thus distance between two points is found successfully.

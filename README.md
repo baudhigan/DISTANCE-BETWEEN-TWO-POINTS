@@ -13,7 +13,7 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ```
 /*
 Program to find the distance between two points.
-Developed by: Baudhigan D
+Developed by: BAUDHIGAN D
 RegisterNumber: 212223230028
 x1=4
 x2=10
